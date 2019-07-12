@@ -1,4 +1,4 @@
-package com.DyahSyahna.ujianandroid;
+package com.AhmadYusuf.uas;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

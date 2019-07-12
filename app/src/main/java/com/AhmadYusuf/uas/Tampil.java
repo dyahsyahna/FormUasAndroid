@@ -1,4 +1,4 @@
-package com.DyahSyahna.ujianandroid;
+package com.AhmadYusuf.uas;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

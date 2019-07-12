@@ -1,4 +1,4 @@
-package com.DyahSyahna.ujianandroid;
+package com.AhmadYusuf.uas;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.DyahSyahna.uasdatabaseoffline", appContext.getPackageName());
+        assertEquals("com.AhmadYusuf.uasdatabaseoffline", appContext.getPackageName());
     }
 }
